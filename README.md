@@ -1,4 +1,4 @@
-## Ola Visitantes 👋
+## Olá Visitantes 👋
 
  ### Sou o Leandro Henrique
 
