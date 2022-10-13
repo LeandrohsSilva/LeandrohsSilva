@@ -5,7 +5,7 @@
 [![GitHub LeandrohsSilva](https://img.shields.io/github/followers/LeandrohsSilva?label=follow&style=social)](https://github.com/LeandrohsSilva)&nbsp;
 ### 👨🏻‍💻 &nbsp; About me
 
-- <img width="16" src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" alt="Brazil" /> I'm from Brazil 
+- <img width="16" src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" alt="Brazil" />  I'm from Brazil 
 - 🔭 Currently studying T.I at Senac
 - 📫 Find me on my social networks
 - 👀 Welcome friends and collaborators
