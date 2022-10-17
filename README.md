@@ -11,9 +11,9 @@
 - 👀 Welcome friends and collaborators
 
 <div align="center">
-  <a href="https://github.com/LeandroHsSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandrohsSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandrohsSilva&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/LeandrohsSilva">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeandrohsSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandrohsSilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  ### 👩‍💻 &nbsp; Programming Languages
