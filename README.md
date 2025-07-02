@@ -3,11 +3,7 @@
 ![version :13.10.2022](https://img.shields.io/badge/version-13.10.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=LeandrohsSilva&color=red)&nbsp;
 [![GitHub LeandrohsSilva](https://img.shields.io/github/followers/LeandrohsSilva?label=follow&style=social)](https://github.com/LeandrohsSilva)&nbsp;
-### 👨🏻‍💻 &nbsp; About me
 
-- <img width="16" src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" alt="Brazil" />  I'm from Brazil 
-- 🔭 Currently studying Systems Analysis and Development
-- 📫 Find me on my social networks
 <div align="center">
   <a href="https://github.com/LeandrohsSilva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeandrohsSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
