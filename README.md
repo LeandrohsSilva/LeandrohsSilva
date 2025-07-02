@@ -8,7 +8,6 @@
 - <img width="16" src="https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg" alt="Brazil" />  I'm from Brazil 
 - 🔭 Currently studying Systems Analysis and Development
 - 📫 Find me on my social networks
-- 
 <div align="center">
   <a href="https://github.com/LeandrohsSilva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeandrohsSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
